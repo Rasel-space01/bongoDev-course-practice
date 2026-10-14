@@ -2,3 +2,20 @@
 h4{
     color:aqua;
 }
+
+
+/* tag selector */
+h1{
+    color: rgb(255, 0, 200);
+}
+
+/* class selector */
+.hello{
+    color: rgb(0, 255, 98);
+}
+
+/* ID selector */
+
+#there{
+    color: darkgoldenrod;
+}

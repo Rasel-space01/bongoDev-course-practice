@@ -26,7 +26,7 @@ h1{
 /* Text and Background styling */
 
 #desh{
-    color: cadetblue;
+    color: rgb(245, 248, 248);
     font-size: 30px;
     text-align: center;
     font-weight: 400;
@@ -38,5 +38,13 @@ body{
     background-image: url(https://tse2.mm.bing.net/th/id/OIP.Xx2_LQQvfgGyqNcyS3R2jwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);
     background-size: cover;
     /* background-position: left ; */
-    
+
+}
+
+/* Box Model */
+#desh1{
+    border: 3px solid red;
+    color: rgb(77, 68, 57);
+    background-color: aqua;
+    font-size: 40px;
 }

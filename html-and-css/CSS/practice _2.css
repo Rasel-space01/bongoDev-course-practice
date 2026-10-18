@@ -78,3 +78,18 @@
       transition: background-color 0.2s ease, transform 0.1s ease;
       box-shadow: 0 2px 4px rgba(76, 123, 244, 0.2);
     }
+.submit-btn:hover {
+      background-color: #3b66d9;
+    }
+
+    .submit-btn:active {
+      transform: scale(0.99);
+    }
+
+    /* Responsive adjustment for small mobile screens */
+    @media (max-width: 360px) {
+      .input-row {
+        flex-direction: column;
+        gap: 12px;
+      }
+    }

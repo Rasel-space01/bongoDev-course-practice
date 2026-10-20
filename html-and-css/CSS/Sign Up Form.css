@@ -6,12 +6,12 @@
 }
 body{
   background-color: rgb(29, 5, 51);
-  width: 60%;
+  width: 50%;
   margin: auto;
 }
 .container {
     margin: 100px 40px;
-    background: #9e9b9b;
+  
 }
 
 .container-1 {
@@ -29,5 +29,12 @@ body{
 .input1, .input2, .input3 {
     width: 100%;
     padding: 10px;
+    border-radius: 10px;
+}
+
+.btnsignup {
+    padding: 10px;
+    background-color: rgb(70, 70, 208);
+    color: white;
     border-radius: 10px;
 }

@@ -46,3 +46,22 @@ main {
 section {
     margin-bottom: 2rem;
 }
+
+
+
+/* h2 {
+    color: #0693e3;
+    margin-bottom: 1rem;
+} */
+
+.experience-grid,
+.projects-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.projects-grid .project-card a {
+    color: #ff6900;
+    text-decoration: none;
+}

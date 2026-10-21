@@ -11,11 +11,21 @@ body {
 }
 
 header {
-    background-color: #1f5a22;
+    background-color: #9cf5a0;
     padding: 3rem 1rem;
     text-align: center;
 }
 
 header h1 {
     font-size: 2rem;
+}
+
+#social-links {
+    margin-top: 30px;
+}
+
+nav ul, #social-links ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
 }

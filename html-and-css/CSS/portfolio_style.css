@@ -9,3 +9,13 @@ body {
     line-height: 1.6;
     color: #333;
 }
+
+header {
+    background-color: #1f5a22;
+    padding: 3rem 1rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2rem;
+}

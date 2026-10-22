@@ -58,7 +58,7 @@ section {
 /* step-7 */
 .experience-grid,
 .projects-grid {
-    
+
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;

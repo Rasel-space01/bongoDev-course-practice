@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #9cf5a0;
+    background-color: #118a62;
     padding: 3rem 1rem;
     text-align: center;
 }
@@ -49,13 +49,14 @@ section {
 
 
 
-/* h2 {
+ h2 {
     color: #0693e3;
     margin-bottom: 1rem;
-} */
+} 
 
 .experience-grid,
 .projects-grid {
+    
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
@@ -65,3 +66,4 @@ section {
     color: #ff6900;
     text-decoration: none;
 }
+

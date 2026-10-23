@@ -108,3 +108,11 @@ form {
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* Responsive */
+@media (max-width: 600px){
+    nav ul {
+        flex-direction: column;
+    }
+
+}

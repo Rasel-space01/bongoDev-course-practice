@@ -4,3 +4,9 @@
 console.log("Hello");
 
 document.getElementById("title").innerText = "counter";
+
+var h1Element
+
+var h1TextElement = doucument.hetElementById('Metropoliton_Dhaka');
+
+h1TextElement.innerText = "Hi There, I am a hacker!!";

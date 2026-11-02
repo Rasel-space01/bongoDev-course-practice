@@ -10,3 +10,13 @@ var h1Element
 var h1TextElement = doucument.hetElementById('Metropoliton_Dhaka');
 
 h1TextElement.innerText = "Hi There, I am a hacker!!";
+
+
+  // ****Variable: ****//
+
+var a;
+var a =5;
+console.log(a);
+
+console.log(a);
+console.log('a');   // ( string)

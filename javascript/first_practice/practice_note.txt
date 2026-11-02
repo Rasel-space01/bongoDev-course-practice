@@ -1,0 +1,6 @@
+✅✅✅Javascript Class Start-12✅
+/*Wikepedia on browser console*/
+
+console.log("Hello");
+
+document.getElementById("title").innerText = "counter";

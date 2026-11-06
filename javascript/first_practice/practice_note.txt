@@ -1,18 +1,27 @@
-✅✅✅Javascript Class Start-12✅
-/*Wikepedia on browser console*/
+✅✅✅Javascript Class Start-11✅
 
-console.log("Hello");
+/*✅001-counter-app open  browser console*/
+
+console.log("Hello");  (time : 48:00 minute)
+
+document.getElementByTagName('h1');
 
 document.getElementById("title").innerText = "counter";
 
+/*✅Wikipedia on browser console*/
+document.hetElementById('Metropoliton_Dhaka');
+
+document.hetElementById('Metropoliton_Dhaka').innerText="hello";
+
 var h1Element
 
-var h1TextElement = doucument.hetElementById('Metropoliton_Dhaka');
+var h1TextElement = document.hetElementById('Metropoliton_Dhaka');
 
 h1TextElement.innerText = "Hi There, I am a hacker!!";
 
 
-  // ****Variable: ****//
+
+// ****Variable: ****// on slide (1 h 7 minute)
 
 var a;
 var a =5;

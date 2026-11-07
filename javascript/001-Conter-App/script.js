@@ -9,3 +9,8 @@
 // console.log(titleElement);
 
 // titleElement.innerText = "Counter App";
+
+//? const variable .
+// const titleElement = document.getElementById("title");
+
+// titleElement.innerText = "Counter App";

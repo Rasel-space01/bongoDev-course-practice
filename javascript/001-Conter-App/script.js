@@ -16,12 +16,17 @@
 
 //? 👍👍For the button click using js EventListener👍👍*//
 
-//const incrementButton = document.getElementById('increment');    //(eibabe js er moddo increment button niye ashe)
+//?This a Increment button .
 
+//const incrementButton = document.getElementById('increment');    //(eibabe js er moddo increment button niye ashe)
 // function increaseCount(){
 // alert ('incrementButton clicked!!');
 // }
 // incrementButton.addEventListener('click' , increaseCount);
 
+//?This a Decrement button
 // const decrementButton = document.getElementById('decrement');
 // function decrementCount(){
+// alert ('decrementButton clicked!!');
+// }
+// decrementButton.addEventListener('click' , decrementCount);

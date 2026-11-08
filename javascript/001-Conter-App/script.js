@@ -21,7 +21,7 @@
 
 //? 👍👍For the button click using js EventListener👍👍*//
 
-//?This a Increment button .
+//👍👍This a Increment button .
 
 //const incrementButton = document.getElementById('increment');    //(eibabe js er moddo increment button niye ashe)
 // function increaseCount(){
@@ -29,9 +29,15 @@
 // }
 // incrementButton.addEventListener('click' , increaseCount);
 
-//?This a Decrement button
+//👍👍This a Decrement button
 // const decrementButton = document.getElementById('decrement');
 // function decrementCount(){
 // alert ('decrementButton clicked!!');
 // }
 // decrementButton.addEventListener('click' , decrementCount);
+
+//* 👍👍For the Counter app and full code using js👍👍*//
+
+ function  setTitle (){
+
+ }

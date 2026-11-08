@@ -2,17 +2,22 @@
 
 //?👍👍 For the add title using js*👍👍//
 
-//? var variable
+//? 01-var variable
 
 //var titleElement = document.getElementById("title");
 // console.log(titleElement);
 
 // titleElement.innerText = "Counter App";
 
-//? const variable .
+//? 02-const variable .
 // const titleElement = document.getElementById("title");
 
 // titleElement.innerText = "Counter App";
+
+//? 03-Changes with counterElement 
+
+// const counterElement = document.getElementById("counter");
+// counterElement.innerText =5;
 
 //? 👍👍For the button click using js EventListener👍👍*//
 

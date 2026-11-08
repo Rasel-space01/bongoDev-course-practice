@@ -1,5 +1,4 @@
-/✅✅✅Javascript Class Start-11✅✅/
-
+/✅✅✅Javascript Class Start-11✅✅/;
 
 //?👍👍 For the add title using js*👍👍//
 
@@ -14,3 +13,15 @@
 // const titleElement = document.getElementById("title");
 
 // titleElement.innerText = "Counter App";
+
+//? 👍👍For the button click using js EventListener👍👍*//
+
+//const incrementButton = document.getElementById('increment');    //(eibabe js er moddo increment button niye ashe)
+
+// function increaseCount(){
+// alert ('incrementButton clicked!!');
+// }
+// incrementButton.addEventListener('click' , increaseCount);
+
+// const decrementButton = document.getElementById('decrement');
+// function decrementCount(){

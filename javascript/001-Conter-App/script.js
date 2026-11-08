@@ -37,8 +37,16 @@
 // decrementButton.addEventListener('click' , decrementCount);
 
 //* 👍👍For the Counter app and full code using js👍👍*//
+ // let count =0;
 
- //function  setTitle (){
-  //const titleElement = document.getElementById("title");
+//function  setTitle (){
+//const titleElement = document.getElementById("title");
 //  titleElement.innerText = "Counter App";
- //}
+//}
+
+
+
+// function setCount (countValue){
+// const counterElement = document.getElementById('counter');
+// counterElement.innerText = countValue;
+// }

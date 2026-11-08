@@ -50,3 +50,11 @@
 // const counterElement = document.getElementById('counter');
 // counterElement.innerText = countValue;
 // }
+
+/* 
+setTitle();
+setCount(6);
+setCount(count);
+
+
+*/

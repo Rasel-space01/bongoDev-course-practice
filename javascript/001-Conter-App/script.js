@@ -63,3 +63,6 @@ function increaseCount (){
     setCount(count + 1);
 }
 */
+
+// const increaseButton = document.getElementById('increment')
+// incrementButton.addEventListener('click' , increaseCount);

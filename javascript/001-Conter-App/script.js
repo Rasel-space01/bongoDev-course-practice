@@ -38,6 +38,7 @@
 
 //* 👍👍For the Counter app and full code using js👍👍*//
 
- function  setTitle (){
-
- }
+ //function  setTitle (){
+  //const titleElement = document.getElementById("title");
+//  titleElement.innerText = "Counter App";
+ //}

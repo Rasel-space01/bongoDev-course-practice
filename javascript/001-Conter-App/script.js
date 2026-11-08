@@ -56,5 +56,10 @@ setTitle();
 setCount(6);
 setCount(count);
 
+//funtion pore likhe aghe call dewake bole hoisting
 
+function increaseCount (){
+    count = count + 1;
+    setCount(count + 1);
+}
 */

@@ -11,12 +11,12 @@
 
 
 //👍👍02-const variable👍👍.
+
 /* 
-
-*/ 
  const titleElement = document.getElementById("title");
-
  titleElement.innerText = "Counter App";
+*/ 
+ 
 
 //? 03-Changes with counterElement 
 

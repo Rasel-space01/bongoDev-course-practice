@@ -20,9 +20,13 @@
 
 //? 03-Changes with counterElement 
 
-// const counterElement = document.getElementById("counter");
-// counterElement.innerText =5;
+/* 
+const counterElement = document.getElementById("counter");
+ counterElement.innerText =5;
 
+*/
+
+ 
 //? 👍👍For the button click using js EventListener👍👍*//
 
 //👍👍This a Increment button .

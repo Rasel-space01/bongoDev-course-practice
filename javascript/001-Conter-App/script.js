@@ -51,22 +51,22 @@ const counterElement = document.getElementById("counter");
 */
 
 
-//* 👍👍For the Counter app and full code using js👍👍*//
- // let count =0;
-
-//function  setTitle (){
-//const titleElement = document.getElementById("title");
-//  titleElement.innerText = "Counter App";
-//}
-
-
-
-// function setCount (countValue){
-// const counterElement = document.getElementById('counter');
-// counterElement.innerText = countValue;
-// }
+//? 👍👍For the Counter app and full code using js👍👍*//
 
 /* 
+let count =0;
+
+function  setTitle (){
+const titleElement = document.getElementById("title");
+  titleElement.innerText = "Counter App";
+}
+
+
+ function setCount (countValue){
+ const counterElement = document.getElementById('counter');
+ counterElement.innerText = countValue;
+ }
+
 setTitle();
 setCount(6);
 setCount(count);
@@ -77,7 +77,9 @@ function increaseCount (){
     count = count + 1;
     setCount(count + 1);
 }
-*/
 
-// const increaseButton = document.getElementById('increment')
-// incrementButton.addEventListener('click' , increaseCount);
+ const increaseButton = document.getElementById('increment')
+ incrementButton.addEventListener('click' , increaseCount);
+  
+*/
+ 

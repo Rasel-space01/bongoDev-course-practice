@@ -43,13 +43,13 @@ const counterElement = document.getElementById("counter");
 //👍👍This a Decrement button👍👍
 
 /* 
-  
+   const decrementButton = document.getElementById('decrement');
+   function decrementCount(){
+   alert ('decrementButton clicked!!');
+   }
+   decrementButton.addEventListener('click' , decrementCount);
 */
-// const decrementButton = document.getElementById('decrement');
-// function decrementCount(){
-// alert ('decrementButton clicked!!');
-// }
-// decrementButton.addEventListener('click' , decrementCount);
+
 
 //* 👍👍For the Counter app and full code using js👍👍*//
  // let count =0;

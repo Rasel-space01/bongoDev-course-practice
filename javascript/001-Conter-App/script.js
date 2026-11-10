@@ -2,17 +2,21 @@
 
 //?👍👍 For the add title using js*👍👍//
 
-//? 01-var variable
+//👍👍 01-var variable👍👍
+/*
+ var titleElement = document.getElementById("title");
+ console.log(titleElement);
+ titleElement.innerText = "Counter App";
+*/
 
-//var titleElement = document.getElementById("title");
-// console.log(titleElement);
 
-// titleElement.innerText = "Counter App";
+//👍👍02-const variable👍👍.
+/* 
 
-//? 02-const variable .
-// const titleElement = document.getElementById("title");
+*/ 
+ const titleElement = document.getElementById("title");
 
-// titleElement.innerText = "Counter App";
+ titleElement.innerText = "Counter App";
 
 //? 03-Changes with counterElement 
 

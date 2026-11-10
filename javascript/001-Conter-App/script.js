@@ -29,15 +29,22 @@ const counterElement = document.getElementById("counter");
  
 //? 👍👍For the button click using js EventListener👍👍*//
 
-//👍👍This a Increment button .
+//👍👍This a Increment button👍👍 .
 
-//const incrementButton = document.getElementById('increment');    //(eibabe js er moddo increment button niye ashe)
-// function increaseCount(){
-// alert ('incrementButton clicked!!');
-// }
-// incrementButton.addEventListener('click' , increaseCount);
+/* 
+ const incrementButton = document.getElementById('increment');    //(eibabe js er moddo increment button niye ashe)
+ function increaseCount(){
+ alert ('incrementButton clicked!!');
+ }
+ incrementButton.addEventListener('click' , increaseCount);
+*/
 
-//👍👍This a Decrement button
+
+//👍👍This a Decrement button👍👍
+
+/* 
+  
+*/
 // const decrementButton = document.getElementById('decrement');
 // function decrementCount(){
 // alert ('decrementButton clicked!!');
